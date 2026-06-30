@@ -1,4 +1,6 @@
 __pycache__/
 *.py[cod]
 .venv/
+.venv311/
 streamlit*.log
+tmp_investor_update.pdf

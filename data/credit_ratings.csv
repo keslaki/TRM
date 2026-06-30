@@ -1,0 +1,5 @@
+agency,long_term_rating,short_term_rating,outlook,latest_review_date,source_url
+Fitch,AA,F1+,Stable,"May 22, 2026",https://www.alberta.ca/system/files/tbf-fitch-rating-report-2026.pdf
+Moody's,Aa2,P-1,Stable,"May 14, 2025",https://www.alberta.ca/system/files/custom_downloaded_images/investor-relations-credit-report-moodys.pdf
+S&P Global,AA-,A-1+,Stable,"May 13, 2026",https://www.alberta.ca/system/files/custom_downloaded_images/investor-relations-credit-report-s-and-p-global.pdf
+DBRS Morningstar,AA,R-1 (high),Stable,"September 12, 2025",https://www.alberta.ca/system/files/tbf-ab-rating-report.pdf

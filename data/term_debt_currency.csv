@@ -1,0 +1,8 @@
+currency,currency_label,outstanding,unit_note,fx_rate_to_cad,fx_rate_date,fx_source
+CAD,$,69.213,CAD-denominated amount,1.0000,2026-06-17,CAD base
+USD,US$,8.540,Official native currency amount,1.4034,2026-06-17,Bank of Canada daily average exchange rate
+EUR,€,5.272,Official native currency amount,1.6249,2026-06-17,Bank of Canada daily average exchange rate
+AUD,A$,3.785,Official native currency amount,0.9908,2026-06-17,Bank of Canada daily average exchange rate
+SEK,SEK,2.500,Official native currency amount,0.1491,2026-06-17,Bank of Canada daily average exchange rate
+CHF,CHF,0.585,Official native currency amount,1.7672,2026-06-17,Bank of Canada daily average exchange rate
+NZD,NZ$,0.128,Official native currency amount,0.8151,2026-06-17,Bank of Canada daily average exchange rate
